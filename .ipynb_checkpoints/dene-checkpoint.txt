@@ -1,1 +1,0 @@
-{'bir': 1, 'ürün': 2, 'güzel': 3, 'iyi': 4, 'gayet': 5, 'ederim': 6, 'olarak': 7}
